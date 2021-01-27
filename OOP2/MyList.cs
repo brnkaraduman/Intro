@@ -7,7 +7,6 @@ namespace OOP2
     class MyList <T>
     {
 
-
         T[] items;
         T[] myTempArray;
         public MyList() { items = new T[0]; }
